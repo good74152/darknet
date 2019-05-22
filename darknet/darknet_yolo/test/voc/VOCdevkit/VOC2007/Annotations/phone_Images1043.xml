@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>phone_Images1043.jpg</filename>
+	<path>C:\Users\Jarvan\Downloads\yolov3\darknet-master\test\voc\VOCdevkit\VOC2007\JPEGImages\phone_Images1043.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>175</ymin>
+			<xmax>187</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+</annotation>

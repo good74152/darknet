@@ -1,0 +1,4 @@
+classes= 4
+train  = ./test/voc/train.txt  
+names = ./test/voc/fintech.names  
+backup = ./test/voc/backup/

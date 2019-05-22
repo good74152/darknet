@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>helmet_image1307.jpg</filename>
+	<path>C:\Users\Jarvan\Downloads\yolov3\darknet-master\test\voc\VOCdevkit\VOC2007\JPEGImages\helmet_image1307.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>333</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>133</ymin>
+			<xmax>223</xmax>
+			<ymax>216</ymax>
+		</bndbox>
+	</object>
+</annotation>

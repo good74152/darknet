@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>phone_Images130.jpg</filename>
+	<path>C:\Users\Jarvan\Downloads\yolo-detector\keras-yolo3-master-new\VOCdevkit\VOC2007\JPEGImages\phone_Images130.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>335</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>226</ymin>
+			<xmax>329</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

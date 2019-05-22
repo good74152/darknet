@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>mask_image569.jpg</filename>
+	<path>C:\Users\Jarvan\Downloads\yolo-detector\keras-yolo3-master-new\VOCdevkit\VOC2007\JPEGImages\mask_image569.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>292</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>140</ymin>
+			<xmax>164</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>

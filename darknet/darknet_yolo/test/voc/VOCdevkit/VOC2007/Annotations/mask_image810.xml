@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mask</folder>
+	<filename>mask_image810.jpg</filename>
+	<path>C:\Users\good7\OneDrive\Desktop\mask\mask_image810.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>974</width>
+		<height>744</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>373</ymin>
+			<xmax>600</xmax>
+			<ymax>722</ymax>
+		</bndbox>
+	</object>
+</annotation>

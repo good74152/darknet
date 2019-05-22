@@ -1,0 +1,4 @@
+classes= 4
+train  = ./fintech/train.txt  
+names = ./fintech/fintech.names  
+backup = ./fintech/backup/
