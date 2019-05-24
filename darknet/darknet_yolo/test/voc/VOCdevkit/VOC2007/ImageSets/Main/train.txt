@@ -2345,7 +2345,6 @@ mask_image1337
 mask_image1338
 mask_image1339
 mask_image134
-mask_image1340
 mask_image1341
 mask_image1342
 mask_image1343
