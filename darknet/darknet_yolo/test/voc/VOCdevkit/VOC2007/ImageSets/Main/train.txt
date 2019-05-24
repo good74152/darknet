@@ -2503,7 +2503,6 @@ mask_image1492
 mask_image1493
 mask_image1494
 mask_image1495
-mask_image1496
 mask_image1497
 mask_image1498
 mask_image1499
