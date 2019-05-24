@@ -1006,7 +1006,6 @@ helmet_image1909
 helmet_image191
 helmet_image1910
 helmet_image1911
-helmet_image1912
 helmet_image1913
 helmet_image1914
 helmet_image1916
