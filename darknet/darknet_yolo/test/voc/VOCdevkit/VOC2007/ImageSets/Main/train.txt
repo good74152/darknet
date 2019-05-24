@@ -2948,7 +2948,6 @@ mask_image1910
 mask_image1911
 mask_image1912
 mask_image1913
-mask_image1914
 mask_image1915
 mask_image1916
 mask_image1917
