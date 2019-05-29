@@ -544,7 +544,6 @@ helmet_image1492
 helmet_image1493
 helmet_image1494
 helmet_image1495
-helmet_image1496
 helmet_image1497
 helmet_image1498
 helmet_image1499
