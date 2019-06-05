@@ -1,0 +1,38 @@
+<annotation>
+	<folder>0603 安全帽圖片2001到4000(尚未標記)</folder>
+	<filename>helmet_image3329.jpg</filename>
+	<path>C:\Users\Jarvan\Downloads\0603 安全帽圖片2001到4000(尚未標記)\helmet_image3329.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>618</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>585</xmin>
+			<ymin>69</ymin>
+			<xmax>668</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>269</xmin>
+			<ymin>119</ymin>
+			<xmax>355</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>

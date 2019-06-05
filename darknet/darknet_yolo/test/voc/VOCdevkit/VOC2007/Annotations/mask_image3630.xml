@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>新口罩照片</folder>
+	<filename>mask_image3630.jpg</filename>
+	<path>C:\Users\good7\OneDrive\Desktop\新口罩照片\mask_image3630.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>954</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>436</xmin>
+			<ymin>442</ymin>
+			<xmax>760</xmax>
+			<ymax>740</ymax>
+		</bndbox>
+	</object>
+</annotation>

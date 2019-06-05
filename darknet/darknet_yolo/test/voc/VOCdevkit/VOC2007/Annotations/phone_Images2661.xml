@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>新手機圖片</folder>
+	<filename>phone_Images2661.jpg</filename>
+	<path>C:\Users\good7\OneDrive\Desktop\新手機圖片\phone_Images2661.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>333</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>talk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>183</ymin>
+			<xmax>215</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>
