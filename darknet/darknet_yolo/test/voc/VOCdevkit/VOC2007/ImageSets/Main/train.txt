@@ -771,7 +771,6 @@ helmet_image1698
 helmet_image1699
 helmet_image17
 helmet_image170
-helmet_image1700
 helmet_image1701
 helmet_image1702
 helmet_image1703

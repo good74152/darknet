@@ -1,1 +1,0 @@
-dir /b /on > list.txt
