@@ -1,0 +1,4 @@
+classes= 2
+train  = ./jeans/train.txt  
+names = ./jeans/jeans.names  
+backup = ./jeans/backup/
