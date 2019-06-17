@@ -5981,7 +5981,6 @@ helmet_image996
 helmet_image997
 helmet_image998
 helmet_image999
-list.txt
 mask_image10
 mask_image100
 mask_image1000
