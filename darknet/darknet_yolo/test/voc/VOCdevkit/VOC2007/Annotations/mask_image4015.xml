@@ -1,0 +1,26 @@
+<annotation>
+	<folder>0617 口罩圖片4006到6000(圖片檔)</folder>
+	<filename>mask_image4015.jpg</filename>
+	<path>C:\Users\Jarvan\Downloads\0617 口罩圖片4006到6000(圖片檔)\mask_image4015.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>310</ymin>
+			<xmax>401</xmax>
+			<ymax>520</ymax>
+		</bndbox>
+	</object>
+</annotation>

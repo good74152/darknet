@@ -1,0 +1,50 @@
+<annotation>
+	<folder>0610 安全帽圖片4001到6000 (尚未標記)</folder>
+	<filename>helmet_image5535.jpg</filename>
+	<path>C:\Users\Jarvan\Downloads\0610 安全帽圖片4001到6000 (尚未標記)\helmet_image5535.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>334</width>
+		<height>501</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>197</ymin>
+			<xmax>174</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>205</ymin>
+			<xmax>128</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>215</ymin>
+			<xmax>279</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>

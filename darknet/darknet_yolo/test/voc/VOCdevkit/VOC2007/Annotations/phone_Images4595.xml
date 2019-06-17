@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>0604 手機圖片4001到5100(尚未標記)</folder>
+	<filename>phone_Images4595.jpg</filename>
+	<path>C:\Users\good7\OneDrive\Desktop\0604 手機圖片4001到5100(尚未標記)\phone_Images4595.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1690</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>599</xmin>
+			<ymin>232</ymin>
+			<xmax>671</xmax>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>talk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>554</xmin>
+			<ymin>177</ymin>
+			<xmax>790</xmax>
+			<ymax>553</ymax>
+		</bndbox>
+	</object>
+</annotation>
