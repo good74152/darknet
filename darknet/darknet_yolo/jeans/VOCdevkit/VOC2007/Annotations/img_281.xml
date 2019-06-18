@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>牛仔褲</folder>
+	<filename>img_281.jpg</filename>
+	<path>C:\Users\good7\OneDrive\Desktop\牛仔褲\img_281.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>197</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>notdistressed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>149</ymin>
+			<xmax>109</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

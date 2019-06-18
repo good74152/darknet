@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>新增資料夾</folder>
+	<filename>img_724.jpg</filename>
+	<path>C:\Users\good7\OneDrive\Desktop\新增資料夾\img_724.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>211</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>notdistressed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>109</ymin>
+			<xmax>139</xmax>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+</annotation>
