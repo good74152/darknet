@@ -1,4 +1,4 @@
-<annotation verified="yes">
+<annotation>
 	<folder>牛仔褲</folder>
 	<filename>img_38.jpg</filename>
 	<path>C:\Users\good7\OneDrive\Desktop\牛仔褲\img_38.jpg</path>
@@ -12,39 +12,135 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>distressed</name>
+		<name>jeans</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>111</xmin>
-			<ymin>127</ymin>
+			<xmin>35</xmin>
+			<ymin>119</ymin>
+			<xmax>92</xmax>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ripped</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>191</ymin>
+			<xmax>56</xmax>
+			<ymax>209</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ripped</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>181</ymin>
+			<xmax>55</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ripped</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>169</ymin>
+			<xmax>64</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>jeans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>123</ymin>
 			<xmax>194</xmax>
-			<ymax>253</ymax>
+			<ymax>254</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>distressed</name>
+		<name>ripped</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>33</xmin>
-			<ymin>121</ymin>
-			<xmax>93</xmax>
-			<ymax>252</ymax>
+			<xmin>157</xmin>
+			<ymin>166</ymin>
+			<xmax>184</xmax>
+			<ymax>184</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>distressed</name>
+		<name>ripped</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>213</xmin>
-			<ymin>115</ymin>
-			<xmax>276</xmax>
-			<ymax>253</ymax>
+			<xmin>116</xmin>
+			<ymin>186</ymin>
+			<xmax>139</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ripped</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>187</ymin>
+			<xmax>184</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>jeans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>119</ymin>
+			<xmax>278</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ripped</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>179</ymin>
+			<xmax>271</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ripped</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>163</ymin>
+			<xmax>257</xmax>
+			<ymax>181</ymax>
 		</bndbox>
 	</object>
 </annotation>

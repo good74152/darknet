@@ -12,50 +12,86 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>distressed</name>
+		<name>jeans</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>22</xmin>
-			<ymin>93</ymin>
-			<xmax>55</xmax>
-			<ymax>173</ymax>
+			<xmin>23</xmin>
+			<ymin>96</ymin>
+			<xmax>56</xmax>
+			<ymax>171</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>distressed</name>
+		<name>ripped</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>130</ymin>
+			<xmax>52</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>jeans</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>89</xmin>
-			<ymin>96</ymin>
+			<ymin>94</ymin>
 			<xmax>122</xmax>
-			<ymax>174</ymax>
+			<ymax>173</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>distressed</name>
+		<name>ripped</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>178</xmin>
-			<ymin>98</ymin>
-			<xmax>214</xmax>
-			<ymax>174</ymax>
+			<xmin>95</xmin>
+			<ymin>126</ymin>
+			<xmax>105</xmax>
+			<ymax>139</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>notdistressed</name>
+		<name>jeans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>96</ymin>
+			<xmax>213</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ripped</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>136</ymin>
+			<xmax>193</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>jeans</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>244</xmin>
-			<ymin>89</ymin>
-			<xmax>281</xmax>
+			<ymin>90</ymin>
+			<xmax>280</xmax>
 			<ymax>176</ymax>
 		</bndbox>
 	</object>

@@ -1,7 +1,7 @@
 <annotation verified="yes">
-	<folder>新增資料夾</folder>
+	<folder>牛仔褲</folder>
 	<filename>img_728.jpg</filename>
-	<path>C:\Users\good7\OneDrive\Desktop\新增資料夾\img_728.jpg</path>
+	<path>C:\Users\good7\OneDrive\Desktop\牛仔褲\img_728.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>notdistressed</name>
+		<name>jeans</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>89</xmin>
-			<ymin>130</ymin>
-			<xmax>154</xmax>
-			<ymax>269</ymax>
+			<xmin>92</xmin>
+			<ymin>124</ymin>
+			<xmax>151</xmax>
+			<ymax>270</ymax>
 		</bndbox>
 	</object>
 </annotation>

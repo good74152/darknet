@@ -1,4 +1,4 @@
-<annotation verified="yes">
+<annotation>
 	<folder>牛仔褲</folder>
 	<filename>img_102.jpg</filename>
 	<path>C:\Users\good7\OneDrive\Desktop\牛仔褲\img_102.jpg</path>
@@ -12,49 +12,85 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>notdistressed</name>
+		<name>jeans</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>132</xmin>
-			<ymin>30</ymin>
-			<xmax>176</xmax>
-			<ymax>129</ymax>
+			<xmin>133</xmin>
+			<ymin>24</ymin>
+			<xmax>177</xmax>
+			<ymax>133</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>distressed</name>
+		<name>jeans</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>248</xmin>
-			<ymin>70</ymin>
-			<xmax>269</xmax>
+			<ymin>66</ymin>
+			<xmax>272</xmax>
 			<ymax>120</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>distressed</name>
+		<name>ripped</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>237</xmin>
-			<ymin>198</ymin>
+			<xmin>249</xmin>
+			<ymin>92</ymin>
 			<xmax>258</xmax>
-			<ymax>249</ymax>
+			<ymax>104</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>distressed</name>
+		<name>ripped</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>29</xmin>
-			<ymin>198</ymin>
+			<xmin>258</xmin>
+			<ymin>90</ymin>
+			<xmax>269</xmax>
+			<ymax>97</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>jeans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>196</ymin>
+			<xmax>161</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ripped</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>212</ymin>
+			<xmax>142</xmax>
+			<ymax>227</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>jeans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>200</ymin>
 			<xmax>64</xmax>
 			<ymax>246</ymax>
 		</bndbox>

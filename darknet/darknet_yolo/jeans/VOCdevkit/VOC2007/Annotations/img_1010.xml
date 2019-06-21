@@ -12,15 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>distressed</name>
+		<name>jeans</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>103</xmin>
-			<ymin>30</ymin>
+			<xmin>102</xmin>
+			<ymin>26</ymin>
 			<xmax>194</xmax>
-			<ymax>254</ymax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ripped</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>131</ymin>
+			<xmax>178</xmax>
+			<ymax>153</ymax>
 		</bndbox>
 	</object>
 </annotation>

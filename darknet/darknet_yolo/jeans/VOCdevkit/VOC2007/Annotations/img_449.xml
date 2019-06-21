@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>notdistressed</name>
+		<name>jeans</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>65</xmin>
+			<xmin>70</xmin>
 			<ymin>29</ymin>
-			<xmax>158</xmax>
-			<ymax>261</ymax>
+			<xmax>155</xmax>
+			<ymax>264</ymax>
 		</bndbox>
 	</object>
 </annotation>

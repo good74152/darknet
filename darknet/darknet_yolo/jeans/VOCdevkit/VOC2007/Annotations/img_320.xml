@@ -1,4 +1,4 @@
-<annotation>
+<annotation verified="yes">
 	<folder>牛仔褲</folder>
 	<filename>img_320.jpg</filename>
 	<path>C:\Users\good7\OneDrive\Desktop\牛仔褲\img_320.jpg</path>
@@ -12,27 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>notdistressed</name>
+		<name>jeans</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>61</xmin>
-			<ymin>14</ymin>
-			<xmax>153</xmax>
-			<ymax>141</ymax>
+			<xmin>58</xmin>
+			<ymin>12</ymin>
+			<xmax>156</xmax>
+			<ymax>144</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>notdistressed</name>
+		<name>jeans</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>47</xmin>
-			<ymin>165</ymin>
-			<xmax>167</xmax>
-			<ymax>293</ymax>
+			<xmin>46</xmin>
+			<ymin>162</ymin>
+			<xmax>166</xmax>
+			<ymax>292</ymax>
 		</bndbox>
 	</object>
 </annotation>
